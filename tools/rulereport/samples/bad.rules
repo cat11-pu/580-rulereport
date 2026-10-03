@@ -1,0 +1,3 @@
+// bad: the second statement never fits the grammar
+x == 1 => 2
+gz @ ()
